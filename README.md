@@ -4,7 +4,7 @@ Antes de rodar o projeto, certifique-se de ter:
 - Node.js e npm instalados
 - Git instalado
 - MySQL instalado e rodando
-- Ajustado o arquivo `backend/db.js` com as informações corretas do seu banco MySQL
+- Ajustado o arquivo `backend/db.js` com as informações corretas do seu banco MySQL. (-> na linha 'database: trabalhoExp', mudar para 'database: trabalho')
 
 ---
 
